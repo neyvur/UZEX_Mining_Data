@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.env.save
+*.db
+*.db.gz
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
